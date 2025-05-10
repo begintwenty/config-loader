@@ -1,4 +1,4 @@
-module config-loader
+module configloader
 
 go 1.23.4
 
