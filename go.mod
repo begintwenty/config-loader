@@ -1,4 +1,4 @@
-module configloader
+module github.com/begintwenty/config-loader
 
 go 1.23.4
 
